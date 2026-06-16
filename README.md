@@ -1,35 +1,78 @@
-# EACO $e - 赚钱体系完整指南
+# EACO $e — 赚钱体系完整指南
 
-> 🌏 **EACO (Earth's Best Coin)** — 宇宙和地球上唯一的 $e，地球村民自己的 MEME
+> 🌏 **EACO (Earth's Best Coin)** — 宇宙和地球上唯一的 $e
+> 代码e既是财富，代码e即是一切 | Earth's Best Coin
 
-[![Solana](https://img.shields.io/badge/Chain-Solana-purple)](https://solana.com)
-[![Token CA](https://img.shields.io/badge/CA-DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH-blue)](https://solscan.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH)
+[![Solana](https://img.shields.io/badge/Chain-Solana-9945FF)](https://solana.com)
+[![Token](https://img.shields.io/badge/Token-$e-14F195)](https://solscan.io/token/DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH)
+[![Supply](https://img.shields.io/badge/Supply-1.35B-00D18C)]()
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 ---
 
-## 📖 文档索引
+## 🚀 60秒快速了解
+
+EACO 是 Solana 链上的社区 MEME + 实用型代币，总量 13.5 亿枚（致敬地球人口）。围绕 $e 构建了 **Agent World、VPN 网络、DAO 治理、跨境支付、AI Agent 经济** 五大生态，海外网友有多种赚钱路径：
+
+| 路径 | 门槛 | 收益 |
+|------|------|------|
+| 📝 内容创作 & Builder | 零成本 | 空投 + DAO权重 + $e 奖励 |
+| 💰 购买持有 $e | $10+ | 代币升值 |
+| 🏊 流动性提供 LP | $50+ | 手续费 + 升值 |
+| 🤖 Agent 节点运营 | 技术 | 被动收益 SOL/$e |
+| 🌐 VPN 节点 | 服务器 | 带宽激励 $e |
+| 🏪 $e 支付 | 商业 | 跨境手续费 |
+| 🏛️ DAO 治理 | 持有 | 生态红利 |
+| 🔨 Builder 贡献 | 技能 | Builder 等级奖励 |
+| 🤝 跨境汇款 | $e | 0.4%手续费差价 |
+
+**👉 详细指南**: [eaco-monetization-guide.md](./eaco-monetization-guide.md)
+
+---
+
+## 📖 文档结构
+
+### 📌 核心文档（必读）
 
 | 文件 | 说明 |
 |------|------|
-| [eaco-monetization-guide.md](./eaco-monetization-guide.md) | **海外网友赚钱体系完整指南**（7种赚钱路径） |
-| [eaco-profile-20260613.md](./eaco-profile-20260613.md) | EACO $e 完整档案（基本信息/交易对/社区） |
+| [**eaco-monetization-guide.md**](./eaco-monetization-guide.md) | 🌟 **海外网友赚钱体系完整指南**（10种路径 + 操作步骤） |
+| [eaco-profile-20260613.md](./eaco-profile-20260613.md) | EACO $e 完整档案（基本信息/交易对/社区/链接） |
 | [eaco-token-economics-20260613.md](./eaco-token-economics-20260613.md) | Token 经济模型 & 联动机制设计 |
-| [EACO_WHITEPAPER.md](./EACO_WHITEPAPER.md) | EACO Agent World 白皮书 |
-| [promo/](./promo/) | 10语种宣传文案（EN/ZH/ES/HI/AR/PT/FR/ID/RU/JA） |
+| [EACO_WHITEPAPER.md](./EACO_WHITEPAPER.md) | EACO Agent World 白皮书（33,000字） |
 
----
+### 🏛️ 治理 & Builder
 
-## 🚀 快速入门：7种赚钱路径
+| 文件 | 说明 |
+|------|------|
+| [eaco-dao-governance.md](./eaco-dao-governance.md) | DAO 治理框架白皮书（投票权重/提案/国库） |
+| [eaco-builder-program.md](./eaco-builder-program.md) | Builder 计划白皮书（等级/贡献/奖励） |
 
-| 路径 | 门槛 | 收益类型 |
-|------|------|---------|
-| 内容创作 & 社区建设 | 零成本 | 空投 + DAO 治理权重 |
-| $e Token 流动性提供 | $50+ | DeFi 手续费 + LP 收益 |
-| EACO-VPN 节点运营 | 海外服务器 | 带宽激励 $e |
-| Agent World 子节点 | 技术能力 | 被动收益 SOL/$e |
-| 接受 $e 跨境支付 | 商业资源 | 贸易手续费 |
-| RWA 资产锚定上链 | 企业级 | 资产上链收益 |
-| DAO 治理参与 | 长期持有 | 生态增长红利 |
+### 📊 行业落地方案
+
+| 文件 | 说明 |
+|------|------|
+| [docs/eaco-industry-crossborder-payment.md](./docs/eaco-industry-crossborder-payment.md) | 跨境支付行业落地方案 |
+| [docs/eaco-industry-vpn.md](./docs/eaco-industry-vpn.md) | 去中心化 VPN 行业落地方案 |
+| [docs/eaco-industry-ai-agent.md](./docs/eaco-industry-ai-agent.md) | AI Agent 经济落地方案 |
+| [docs/eaco-go-to-market-2026.md](./docs/eaco-go-to-market-2026.md) | 全球市场进入策略 |
+| [docs/eaco-promotion-strategy.md](./docs/eaco-promotion-strategy.md) | 社区推广策略 |
+| [docs/EACO_VPN_BLUEPRINT.md](./docs/EACO_VPN_BLUEPRINT.md) | EACO-VPN 技术方案蓝图 |
+
+### 🌍 多语言宣传
+
+| 语言 | 文件 |
+|------|------|
+| 🇬🇧 English | [promo/promo_20260613_en.md](./promo/promo_20260613_en.md) |
+| 🇨🇳 中文 | [promo/promo_20260613_zh.md](./promo/promo_20260613_zh.md) |
+| 🇪🇸 Español | [promo/promo_20260613_es.md](./promo/promo_20260613_es.md) |
+| 🇸🇦 العربية | [promo/promo_20260613_ar.md](./promo/promo_20260613_ar.md) |
+| 🇮🇳 हिन्दी | [promo/promo_20260613_hi.md](./promo/promo_20260613_hi.md) |
+| 🇧🇷 Português | [promo/promo_20260613_pt.md](./promo/promo_20260613_pt.md) |
+| 🇫🇷 Français | [promo/promo_20260613_fr.md](./promo/promo_20260613_fr.md) |
+| 🇮🇩 Bahasa | [promo/promo_20260613_id.md](./promo/promo_20260613_id.md) |
+| 🇷🇺 Русский | [promo/promo_20260613_ru.md](./promo/promo_20260613_ru.md) |
+| 🇯🇵 日本語 | [promo/promo_20260613_ja.md](./promo/promo_20260613_ja.md) |
 
 ---
 
@@ -42,28 +85,50 @@
 | 流动性 (Meteora) | https://app.meteora.ag |
 | 数据查询 | https://orbmarkets.io |
 | 区块浏览器 | https://solscan.io |
-| X/Twitter | https://x.com/eacocc |
 | English TG | https://t.me/e_eacocc |
 | 华语社区 | https://t.me/aieaco |
 | Spanish TG | https://t.me/eacoespanish |
+| X/Twitter | https://x.com/eacocc |
+| Linktree | https://linktr.ee/web3eaco |
 
 ---
 
-## 💰 核心信息
+## 💰 $e Token 信息
 
-- **Token**: $e (EACO)
-- **链**: Solana
-- **CA**: `DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH`
-- **总供应量**: 1,350,000,000 (13.5亿枚)
+| 项目 | 数值 |
+|------|------|
+| Token | $e (EACO) |
+| 链 | Solana |
+| CA | `DqfoyZH96RnvZusSp3Cdncjpyp3C74ZmJzGhjmHnDHRH` |
+| 总供应量 | 1,350,000,000 (13.5亿) |
+| 交易对 | $e/USDC (Orca), $e/SOL (Raydium), $e/USDT (Meteora) |
+| Agent 节点 | 8个已验证（全球+7大洲） |
+| 利润分配 | 50% 再投资 / 50% 提现 |
 
 ---
 
-## 📅 自动更新
+## 🔄 自动更新
 
 本仓库每周六 02:30（北京时间）自动优化更新，由 EACO AI 工程师驱动。
 
+更新内容：最新数据、新路径补充、内容准确性优化、海外受众阅读体验提升。
+
 ---
 
-**打赏地址**:
+## ⚠️ Disclaimer
+
+This repository is for informational and educational purposes only. Cryptocurrency investments carry significant risk. Always DYOR (Do Your Own Research). Never invest more than you can afford to lose.
+
+**本仓库仅供信息和教育用途。加密货币投资有重大风险。请自行研究，不要投入超过你承受能力的资金。**
+
+---
+
+## 📄 License
+
+[MIT License](./LICENSE) © 2026 EACO (Earth's Best Coin)
+
+---
+
+**Tips / 打赏**:
 - SOL/wBNB/wETH/USDT: `8jpA6mfoZvdbQA1tMqWZyQnsn3CqtRfjeaXPArt4uhNE`
 - BNB/EVM/USDC/WDOGE: `0xedba2da577942bff3ca03bcb88b0190a3dbeef94`
