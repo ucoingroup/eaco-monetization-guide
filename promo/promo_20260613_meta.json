@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-06-13T07:50:07.660373+08:00",
+  "price_data": {
+    "error": "No data",
+    "updated": "2026-06-12T23:50:07.659368+00:00"
+  },
+  "agent_data": {
+    "total_agents": 8,
+    "agents": [
+      "eaco-global",
+      "eaco-europe-1",
+      "eaco-asia-1",
+      "eaco-americas-1",
+      "eaco-mena-1",
+      "eaco-southeast-1",
+      "eaco-south-asia-1",
+      "eaco-east-asia-1"
+    ],
+    "match_id": "match_1777000323458",
+    "status": "8 multilingual agents",
+    "languages": [
+      "en",
+      "zh",
+      "es",
+      "hi",
+      "ar",
+      "pt",
+      "ru",
+      "ja",
+      "de",
+      "fr"
+    ],
+    "wallet": "3uVyRjzLnJ6MumYaQ7oMt5jPVPBGKFUeGgqkzwh5Uw6N",
+    "last_updated": "2026-06-02T10:46:38.389711+08:00"
+  },
+  "message_file": "C:\\Users\\Administrator\\.qclaw\\workspace-ua58rsb93veqtxl7\\eaco-agent-world\\promo\\promo_20260613.txt"
+}
